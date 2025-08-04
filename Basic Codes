@@ -1,0 +1,6 @@
+def addition(a,b):
+    c=a+b
+    print("sum is",c)
+a=int(input("enter number"))
+b=int(input("enter second number"))
+addition(a,b)
